@@ -15,6 +15,12 @@ class FibIt {
             int i_ = 10;
             int askjdfha  = 1923841;
             int aslkdjfhal = 1983;
+            int kajdslahj = 2841073;
+            int lakjshladhf = 128143;
+            int ljadhl = 17;
+            int ljadsf = 123;
+            int lajsdf = 56;
+            int ljshaaf = -42;
         }
 
         int n = 0;
